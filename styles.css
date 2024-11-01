@@ -1,0 +1,51 @@
+
+
+*{
+    font-family:'Courier New', Courier, monospace;
+    border: 2px solid powderblue;
+}
+
+.main-title{
+    font-size: 64px;
+    color: red;
+    font-weight: bold;
+    
+}
+
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    
+    
+    
+}
+.subtitle, 
+p {
+    background-color: greenyellow;
+    color: purple;
+    
+    
+    
+}
+
+.description{
+    font-weight: bold;
+    text-align: center;
+    background-color: green;
+    color: white;
+    
+
+}
+
+.second-subtitle,
+.list{
+    font-style:oblique;
+    padding: 30x;
+    background-color: bisque;
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
