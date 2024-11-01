@@ -2,7 +2,7 @@
 
 A collection of my favorite cheat recipes
 
-- learned to link absolute/relative links
-- add images, descriptions, lists
+- added images, descriptions, lists, links
+- included css file 
 
 
